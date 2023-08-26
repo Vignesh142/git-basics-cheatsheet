@@ -1,4 +1,5 @@
-﻿# Git Cheatsheet (Basics)
+﻿Changing some text in readme file that i cloned. Modify
+# Git Cheatsheet (Basics)
 
 This cheatsheet is a list of our most used Git commands, and it countains useful information for those who are getting started.
 
